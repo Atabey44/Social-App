@@ -1,7 +1,11 @@
 # Social-App
-Java SpringBoot
-Hibernate
-PostgreSQL
+-------------------
+##Java SpringBoot
+-------------------
+##Hibernate
+-------------------
+##PostgreSQL
+-------------------
 
 
 
